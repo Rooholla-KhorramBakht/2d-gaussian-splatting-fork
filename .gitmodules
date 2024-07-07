@@ -3,4 +3,4 @@
 	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
 [submodule "submodules/diff-surfel-rasterization-fork"]
 	path = submodules/diff-surfel-rasterization-fork
-	url = git@github.com:Rooholla-KhorramBakht/diff-surfel-rasterization-fork.git
+	url = https://github.com/Rooholla-KhorramBakht/diff-surfel-rasterization-fork.git
